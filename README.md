@@ -1,8 +1,3 @@
-Below is an example README.md file that documents your online shopping backend application. You can adjust the details as needed.
-
----
-
-```markdown
 # Online Shopping Application Backend
 
 This is a Spring Boot backend application for an online shopping platform. It provides RESTful endpoints to support user registration, login, order management (for both buyers and sellers), product management, watchlists, and JWT-based security.
@@ -70,8 +65,8 @@ This is a Spring Boot backend application for an online shopping platform. It pr
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/online-shopping-app-backend.git
-   cd online-shopping-app-backend
+   git clone https://github.com/JiachengZhao98/Online_Shopping_App.git
+   cd Online_Shopping_App
    ```
 
 2. **Configure the Database:**
